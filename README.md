@@ -1,3 +1,2 @@
 I HEART VERSION CONTROL
-I HEART GITHUB
-I HEART GIT
+making changes on github
